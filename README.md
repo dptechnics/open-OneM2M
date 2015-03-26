@@ -27,7 +27,7 @@ Join the IoT standardisation revolution now, together we can connect any device 
 Specification
 ------------
 
-The OneM2M specification is free for download on the [OneM2M website]http://www.onem2m.org/technical/published-documents).
+The OneM2M specification is free for download on the [OneM2M website](http://www.onem2m.org/technical/published-documents).
 These documents are the starting point for the implementation.
 
 Contributers
